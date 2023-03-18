@@ -1,0 +1,11 @@
+Answers to Questions:
+1. towers(4,2,1)
+2. There will be 5 recursive calls to towers() made before this first recursive call returns to the initial invocation
+3. The first move that will be made by towers(5,2,3) is moving a disk from Tower 2 to Tower 3
+4. The second recursive call to towers() that is invoked is towers(3,2,3)
+
+Part 2
+
+1.If towers(8,1,2) is invoked, 255 lines will be printed to stdout
+
+In this lab, a C program was created that uses recursion to solve the Towers of Hanoi puzzle. A variety of inputs can be entered into the application, and it will solve the issue exactly as the user instructed in the command line.
